@@ -107,7 +107,7 @@ public void close(){
 		Login.add(label);
 		
 		JLabel label_1 = new JLabel("");
-		label_1.setIcon(new ImageIcon("C:\\Users\\Mikey\\Documents\\eclipseProjects\\SEPROJECT2\\src\\images\\btnlogo.jpg"));
+		label_1.setIcon(new ImageIcon("C:\\Users\\Dwight\\Desktop\\ECLIPSE\\SE PROJECT\\src\\images\\btnlogo.jpg"));
 		label_1.setBounds(471, 32, 100, 100);
 		Login.add(label_1);
 		
@@ -227,12 +227,12 @@ public void close(){
 		
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\Mikey\\Documents\\eclipseProjects\\SEPROJECT2\\src\\images\\propiccici.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\Dwight\\Desktop\\ECLIPSE\\SE PROJECT\\src\\images\\propiccici.jpg"));
 		lblNewLabel.setBounds(10, 11, 154, 143);
 		Admin_Menu.add(lblNewLabel);
 		
 		JLabel lblNewLabel_1 = new JLabel("New label");
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\Mikey\\Documents\\eclipseProjects\\SEPROJECT2\\src\\images\\btnlogo.jpg"));
+		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\Dwight\\Desktop\\ECLIPSE\\SE PROJECT\\src\\images\\btnlogo.jpg"));
 		lblNewLabel_1.setBounds(470, 11, 102, 112);
 		Admin_Menu.add(lblNewLabel_1);
 		
@@ -303,7 +303,7 @@ public void close(){
 				
 			}
 		});
-		button_2.setIcon(new ImageIcon("C:\\Users\\Mikey\\Documents\\eclipseProjects\\SEPROJECT2\\src\\images\\sssaaallleee.jpg"));
+		button_2.setIcon(new ImageIcon("C:\\Users\\Dwight\\Desktop\\ECLIPSE\\SE PROJECT\\src\\images\\sssaaallleee.jpg"));
 		button_2.setBounds(37, 406, 103, 82);
 		Admin_Menu.add(button_2);
 		
